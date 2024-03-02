@@ -1,0 +1,193 @@
+.body {
+    margin: 0;
+    background: radial-gradient(#1e8fa5,#08506b, black)no-repeat fixed;
+    padding: 50px 0px;
+}
+
+/* Start Team CSS Or Members    Star Team CSS OR Members */
+/* Start Team CSS Or Members    Star Team CSS OR Members */
+/* Start Team CSS Or Members    Star Team CSS OR Members */
+
+
+.team{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    color:darkorange;
+    text-decoration: underline;
+}
+
+.pic{
+	color: white;
+    font-family:sans-serif;
+    
+}
+.pic1{
+    justify-content:space-around;
+    float: left;
+    margin-left: 200px;
+    text-align: center;
+
+}
+
+.pic2{
+    justify-content:space-around;
+    float: right;
+    margin-right: 200px;
+    text-align: center;
+
+}
+
+.pic3{
+    justify-content: center;
+    text-align: center;
+
+
+}
+
+
+a{
+    background-color: #1e8fa5;
+    padding: 10px;
+    margin: 40px;
+    margin-top: 400px;
+    font-size: 30px;
+    justify-items: center;
+    text-decoration: none;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 900;
+}
+
+a:hover{
+    padding: 20px;
+    background-color: #dedede;
+}
+
+body{
+    background: radial-gradient(#1e8fa5,#08506b, black)no-repeat fixed;
+}
+
+/* End Team CSS Or Members   End Team CSS OR Members */
+/* End Team CSS Or Members   End Team CSS OR Members */
+/* End Team CSS Or Members   End Team CSS OR Members */
+
+
+button.clear {
+    background: #FF5722;
+    color: #fff;
+}
+
+button.Del {
+    background: #FF5722;
+    color: #fff;
+}
+
+table {
+    background: black;
+    padding: 7px 5px;
+    border: 6px solid #00000000;
+    text-align: center;
+    padding-bottom: 0px;
+    box-shadow: 5px 5px 27px #0d5569;
+    border-radius: 10px;
+    margin-top: 90px;
+}
+button.equal {
+    width: 98%;
+    background: #210b04;
+    border-radius: 10px;
+}
+button.equal:hover{
+	background: rgb(158, 16, 16);
+}
+input[type="text"] {
+    width: 450px;
+    height: 81px;
+    border: 1px solid #ffffff;
+    padding: 10px 20px;
+    font-size: 29px;
+    background: #a35959;
+    font-weight: bold;
+    margin-bottom: 25px;
+    font-family: cursive;
+    margin-top: 10px;
+    color: #dedede;
+    border-bottom: 2px solid white;
+}
+button {
+    padding: 10px 20px;
+    width: 100px;
+    height: 60px;
+    margin-bottom: 20px;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: cursive;
+    background: #45aeb1;
+    border: none;
+    color: rgb(111, 0, 255);
+    border-radius: 100%;
+    cursor: pointer;
+}
+button:hover{
+	background-color: #54ab39;
+}
+
+
+
+.color{
+    background-color: gray;
+}
+
+.color:hover{
+    background: rgb(225, 192, 5);
+}
+
+/* Start Heading CSS Start Heading CSS Start Heading CSS Start Heading CSS  */
+/* Start Heading CSS Start Heading CSS Start Heading CSS Start Heading CSS  */
+/* Start Heading CSS Start Heading CSS Start Heading CSS Start Heading CSS  */
+ 
+
+.Bro{
+	text-align: center;
+	font-size: 50px;
+	color: yellow;
+	font-weight: bolder;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	letter-spacing: 2px ;
+    padding-top: 30px;
+}
+
+/* End Heading CSS Start Heading CSS Start Heading CSS Start Heading CSS  */
+/* End Heading CSS Start Heading CSS Start Heading CSS Start Heading CSS  */
+/* End Heading CSS Start Heading CSS Start Heading CSS Start Heading CSS  */
+
+
+
+/* Start CopyRight CSS And Right Reserved */
+/* Start CopyRight CSS And Right Reserved */
+/* Start CopyRight CSS And Right Reserved */
+
+
+.create{
+	text-align: center;
+	color: white;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	background-color:rgb(39, 48, 37);
+	padding: 40px;
+	margin-top: 40px;
+    margin-bottom: 0%;
+	
+}
+
+.create span{
+	color:mediumaquamarine ;
+	font-size: 25px;
+}
+
+/* End Start CopyRight CSS And Right Reserved */
+
+
+
+
+
